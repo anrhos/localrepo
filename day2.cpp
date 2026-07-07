@@ -5,6 +5,5 @@ int main(){
     int z = x+y;
     int a = z-x;
     std::cout<< z;
-    std::cout<< a;
     return 0;
 }
