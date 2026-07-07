@@ -8,5 +8,10 @@ int main(){
     std::cout<< z;
     std::cout<< a;
     std::cout<< c;
+    int a = z-x;
+    int b = a+y;
+    std::cout<< z;
+    std::cout<< a;
+    std::cout<< b;
     return 0;
 }
